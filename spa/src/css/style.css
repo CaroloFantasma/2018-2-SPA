@@ -1,0 +1,45 @@
+header {
+  background-color: black;
+}
+
+.menu {
+  text-align: center;
+  font-size: 18px;
+  padding: 2% 4%;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+/* Foto inicio */
+.marvel-dc {
+  max-width: 100%;
+  margin: 0px auto;
+  display: block;
+}
+
+/* Fotos Marvel & DC */
+.marvel {
+  margin: 0px auto;
+  border: 6px solid black;
+  max-width: 100%;
+  display: block;
+}
+
+/* Texto Marvel y DC */
+#marvelText {
+  margin: 0px auto;
+  text-align: justify;
+}
+
+/* Display elementos */
+#marvelImg, #heroesText {
+  display: none;
+}
+
+#heroesText {
+  max-width: 100%;
+}
